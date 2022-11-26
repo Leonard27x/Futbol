@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0", MI primer canal 
+#EXTGRP:MI primer grupo
+
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
