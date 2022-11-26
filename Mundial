@@ -3,3 +3,9 @@
 #EXTGRP:MI primer grupo
 
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml.gz" 
+#EXTMINF:-1 tvg-id="RakutenTVComedyMoviesAustria .at" status="online",Rakuten Comedy Movies Austria 
+#EXTGRP:Rakuten https://rakuten-comedymovies-5-eu.rakuten.wurl.tv/playlist.m3u8 
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany. de" status="online",Rakuten Comedy Movies Alemania 
+#EXTGRP:Rakuten https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
