@@ -4,6 +4,8 @@
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Mundial",TyC Sport 2
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Mundial",Caracol Gol
+http://slp2.noxity.online:8081/caracolhd/dxplay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 
 #EXTINF:-1 tvg-id="ext" group-title="Cable",Star Channel
 http://slp1.noxity.online:8081/cine/STAR_CHANNEL377/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMiA0OjE5OjQ4IEFNJmhhc2hfdmFsdWU9Y3JLb3dHNytseVdPRFBWdHQ5T29Gdz09JnZhbGlkbWludXRlcz0yMjA=
