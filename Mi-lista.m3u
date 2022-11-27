@@ -5,3 +5,5 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 
 #EXTINF:-1 tvg-id="ext" group-title="Cable",Star Channel
 http://slp1.noxity.online:8081/cine/STAR_CHANNEL377/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMiA0OjE5OjQ4IEFNJmhhc2hfdmFsdWU9Y3JLb3dHNytseVdPRFBWdHQ5T29Gdz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-id="ext" group-title="Cable",HBO2
+http://slp1.noxity.online:8081/cine/HBO_25445631/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMiA1OjE2OjQ2IEFNJmhhc2hfdmFsdWU9eWNhVmJvTFdnQ3hKZHY1OTBFOVd6Zz09JnZhbGlkbWludXRlcz0yMjA=
