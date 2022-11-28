@@ -8,6 +8,9 @@ https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/in
 http://slp2.noxity.online:8081/caracolhd/dxplay/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIyIDEyOjMwOjA1IEFNJmhhc2hfdmFsdWU9akFJc3Q2c0VYVFJxMldEYk1oZGRldz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 #EXTINF:0 tvg-id="ext" group-title="Mundial",TRT
 https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/08666342-974f-46ea-bf42-a57ed3d2220c/0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Mundial",Telemundo
+https://v-px.mybtv.net/live/39/1280x720.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" group-title="Cable",Star Channel
 http://slp1.noxity.online:8081/cine/STAR_CHANNEL377/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMiA0OjE5OjQ4IEFNJmhhc2hfdmFsdWU9Y3JLb3dHNytseVdPRFBWdHQ5T29Gdz09JnZhbGlkbWludXRlcz0yMjA=
