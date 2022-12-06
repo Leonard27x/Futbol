@@ -9,7 +9,7 @@ http://slp2.noxity.online:8081/caracolhd/dxplay/playlist.m3u8?wmsAuthSign=c2Vydm
 #EXTINF:0 tvg-id="ext" group-title="Mundial",TRT
 https://30ddd23492de45a38005e6d61515f8b9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/08666342-974f-46ea-bf42-a57ed3d2220c/0.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Mundial",Telemundo
-https://v-px.mybtv.net/live/39/1280x720.m3u8
+https://playing.smoothlikebutterstream.com/live/telemundo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="Cable",Star Channel
