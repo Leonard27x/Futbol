@@ -13,8 +13,8 @@ https://playing.smoothlikebutterstream.com/live/telemundo/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" group-title="Cable",Star Channel
-https://slp1.noxity.online:8081/cine/STAR_CHANNEL377/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDU6NTg6NTIgUE0maGFzaF92YWx1ZT1YRFFjekNSK0kwTnA4NTR0VVBOUkxRPT0mdmFsaWRtaW51dGVzPTIyMA==
+http://slp1.noxity.online:8081/cine/STAR_CHANNEL377/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDU6NTg6NTIgUE0maGFzaF92YWx1ZT1YRFFjekNSK0kwTnA4NTR0VVBOUkxRPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-id="ext" group-title="Cable",HBO2
-https://slp1.noxity.online:8081/cine/HBO_25445631/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMiA1OjE2OjQ2IEFNJmhhc2hfdmFsdWU9eWNhVmJvTFdnQ3hKZHY1OTBFOVd6Zz09JnZhbGlkbWludXRlcz0yMjA=
+http://slp1.noxity.online:8081/cine/HBO_25445631/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMiA1OjE2OjQ2IEFNJmhhc2hfdmFsdWU9eWNhVmJvTFdnQ3hKZHY1OTBFOVd6Zz09JnZhbGlkbWludXRlcz0yMjA=
 #EXTINF:-1 tvg-id="ext" group-title="Cable",History
-https://slp1.noxity.online:8081/CIENCIA/HISTORY00008/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDU6MzY6MTIgUE0maGFzaF92YWx1ZT0vZi84SWZGcGE5R21WNXNxOU1Sd1dRPT0mdmFsaWRtaW51dGVzPTIyMA==
+http://slp1.noxity.online:8081/CIENCIA/HISTORY00008/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDIyIDU6MzY6MTIgUE0maGFzaF92YWx1ZT0vZi84SWZGcGE5R21WNXNxOU1Sd1dRPT0mdmFsaWRtaW51dGVzPTIyMA==
